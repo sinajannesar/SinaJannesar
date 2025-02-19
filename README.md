@@ -40,7 +40,7 @@ Here are some ideas to get you started:
     <img src="[https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white](https://www.google.com/imgres?q=icon%20logo%20telegram&imgurl=https%3A%2F%2Fe7.pngegg.com%2Fpngimages%2F733%2F307%2Fpng-clipart-computer-icons-logo-telegram-logo-angle-white.png&imgrefurl=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-hnrmn&docid=NFV89NIN_I9nIM&tbnid=LUEpL0qeN6Z4VM&vet=12ahUKEwju1sXdl8-LAxUoQfEDHeDSL6EQM3oFCIcBEAA..i&w=900&h=600&hcb=2&ved=2ahUKEwju1sXdl8-LAxUoQfEDHeDSL6EQM3oFCIcBEAA)" target="_blank" />
   </a>
   <a href="https://instagram.com/sina.jnnr" target="_blank">
-    <img src="[https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white](https://www.google.com/imgres?q=icon%20logo%20instagram&imgurl=https%3A%2F%2Fe7.pngegg.com%2Fpngimages%2F280%2F211%2Fpng-clipart-computer-icons-logo-instagram-black-desktop-wallpaper-thumbnail.png&imgrefurl=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-kzypz&docid=c30ZyC1Ihf3DAM&tbnid=VLGthcW72Xnk9M&vet=12ahUKEwjS4aT3l8-LAxX4VPEDHQhhL0sQM3oECF0QAA..i&w=348&h=348&hcb=2&ved=2ahUKEwjS4aT3l8-LAxX4VPEDHQhhL0sQM3oECF0QAA)" target="_blank" />
+    icons/Instagram.svg
   </a>
 </div>
 
@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,,vue,redux,git,figma" />
 </p>
 
 <hr>
