@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<p align="center">
+
   ### Front-End
   
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge)
@@ -69,7 +69,6 @@ Here are some ideas to get you started:
 ![Npm](https://img.shields.io/badge/Npm-CB3837?logo=Npm&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=for-the-badge)
-</p>
 
 <hr>
 
