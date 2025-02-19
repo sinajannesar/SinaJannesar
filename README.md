@@ -40,7 +40,8 @@ Here are some ideas to get you started:
     <img src="[https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white](https://www.google.com/imgres?q=icon%20logo%20telegram&imgurl=https%3A%2F%2Fe7.pngegg.com%2Fpngimages%2F733%2F307%2Fpng-clipart-computer-icons-logo-telegram-logo-angle-white.png&imgrefurl=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-hnrmn&docid=NFV89NIN_I9nIM&tbnid=LUEpL0qeN6Z4VM&vet=12ahUKEwju1sXdl8-LAxUoQfEDHeDSL6EQM3oFCIcBEAA..i&w=900&h=600&hcb=2&ved=2ahUKEwju1sXdl8-LAxUoQfEDHeDSL6EQM3oFCIcBEAA)" target="_blank" />
   </a>
   <a href="https://instagram.com/sina.jnnr" target="_blank">
-    icons/Instagram.svg
+  <img src="![image](https://github.com/user-attachments/assets/492aacfa-0050-42e7-a7b5-09ab71ff8f33)
+"/>
   </a>
 </div>
 
