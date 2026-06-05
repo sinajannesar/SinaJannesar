@@ -69,15 +69,3 @@ Here are some ideas to get you started:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=for-the-badge)
 
 <hr>
-
-
-# ⚡️ Stats
-
-<br>
-
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=SinaJannesar&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt=" GitHub Stats" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=SinaJannesar&theme=transparent&layout=donut&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Most Used Languages" />
-</div>
-
-<hr>
